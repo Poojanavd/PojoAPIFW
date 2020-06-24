@@ -1,0 +1,4 @@
+com\automation\pojo\Location.class
+com\automation\enums\APIResources.class
+com\automation\payload\TestDataBuild.class
+com\automation\pojo\AddPlace.class
